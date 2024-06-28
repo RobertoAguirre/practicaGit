@@ -18,7 +18,9 @@ function App() {
           Learn React
         </a>
         <h2>cambio de Gerardo (*0 *)</h2>
-        <h1>davidi was here</h1>
+        <h1>davidi borro todo c mamo
+          
+        </h1>
       </header>
     </div>
   );
