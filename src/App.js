@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -11,14 +11,12 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.google.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          This account has been hacked...
         </a>
-        <h2>cambio de Gerardo (*0 *)</h2>
-        <h1>davidi was here</h1>
       </header>
     </div>
   );
